@@ -1,0 +1,24 @@
+[
+	{
+		"model" : "documents.document",
+		"pk" : 1,
+		"fields" : {
+			"title" : "First document",
+    		"description" : "This is a test document"
+		}
+	},{
+		"model" : "documents.document",
+		"pk" : 2,
+		"fields" : {
+			"title" : "Another document",
+    		"description" : "And yet another test"
+		}
+	},{
+		"model" : "documents.document",
+		"pk" : 3,
+		"fields" : {
+			"title" : "Document the Third",
+    		"description" : "Third is the last"
+		}
+	}
+]

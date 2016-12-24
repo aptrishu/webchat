@@ -1,0 +1,16 @@
+Notes on how to deploy this demo
+================================
+Hi, you are about to test this demo project for the django-jchat application I developed for the
+django web framework (www.djangoproject.com). This is merely an example project made for you to
+see the app in action and see some of the possibilities it provides.
+
+Installing
+==========
+Just unpack this somewhere, run the "manage.py syncdb" command (you'll need to add a super user
+when prompted, for you will be logged in with that user when testing the app automatically).
+Then run the "manage.py runserver" command and point your browser to the app, and test away!
+By the way: the project uses fixtures to load initial data for the demos.
+
+More info
+=========
+http://code.google.com/p/django-jchat/
